@@ -4,6 +4,9 @@
 - refresh: online
 - code size: 1.3 kb
 
+### Demo
+![alt text](https://github.com/tecspda/js-exchange-calculator/blob/main/demo.png?raw=true)
+
 ### Usage
 convertCurrency(Number `fromAmount`, string `fromCurrency`, string `toCurrency`)
 ```javascript
