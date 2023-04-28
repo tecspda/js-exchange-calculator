@@ -1,9 +1,8 @@
 # js-exchange-calculator
-Online exchange calculator (data from https://cbr.ru online)
-
-## Data source
-https://cbr.ru
-
+- Online exchange calculator 
+- data source https://cbr.ru
+- refresh: online
+- code size: 1.3 kb
 
 ### Usage
 convertCurrency(Number `fromAmount`, string `fromCurrency`, string `toCurrency`)
@@ -14,3 +13,4 @@ console.log('Result', convertCurrency(10, 'USD', 'TRY'))
 ```js
 10 USD = 194.28 TRY (Turkish Lira)
 ```
+
